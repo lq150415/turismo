@@ -1,0 +1,48 @@
+<?php
+ 
+return [
+ 
+	'menu1'=>'What we offer?',
+	'menu2'=>'What do you need?',
+	'menu3'=>'Register',
+	'menu4'=>'Log in',
+    'titulo' => 'Tour guide in the metropolitan area of ​​La Paz department',
+    'titulo2'=>'Welcome to portal travel guide where you will find all the information about tourist sites of the Department of La Paz in the metropolitan area.',
+    'boton1'=>'More Information',
+    'texto1'=>'We provide all the information you need for a better stay in the Department of La Paz in Bolivia, all meet the needs of everyone who uses our services.',
+    'boton2'=>"Well's begin!",
+    'boton7'=>"Enter now!",
+    'texto2'=>"
+It's simple, you can complete the form or sign up with Facebook or Google+.",
+	'texto3'=>'Complete the quiz',
+	'texto4'=>'With the data collected, the suggestion system is adapted to your profile.',
+	'texto5'=>'Search what you need',
+	'texto6'=>'Choose the parameters needed to reach your destination.',
+	'texto7'=>'Rate the places you visited',
+	'texto8'=>'It is important your opinion, share them so that others live the same experience yours.',
+	'titulo3'=>'Visit Museums',
+ 	'titulo4'=>'Explore',
+ 	'titulo5'=>'Find',
+ 	'titulo6'=>'Attend',
+ 	'titulo7'=>'Enjoy',
+ 	'titulo8'=>'and other attractions',
+ 	'titulo9'=>'hotels and others',
+ 	'titulo10'=>'virtually',
+ 	'titulo11'=>'',
+ 	'titulo12'=>'EVENTS',
+ 	'boton3'=>'Register now!',
+ 	'bienvenido'=>'Welcome ',
+ 	'cerrar'=>'Logout',
+ 	'principal1'=>'Tourist attractions',
+ 	'principal2'=>'Lodging',
+ 	'principal3'=>'Restaurants',
+ 	'principal4'=>'360° Gallery',
+ 	'principal5'=>'Cultural calendar',
+ 	'principal6'=>'Traffic',
+ 	'principal7'=>'Suggestions',
+ 	'principal8'=>'Favorites',
+ 	'layout1'=>'MENU',
+ 	'layout2'=>'HOME',
+
+ 
+];
